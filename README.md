@@ -1,1 +1,2 @@
-# Garch_Explorer
+# Garch Explorer
+
