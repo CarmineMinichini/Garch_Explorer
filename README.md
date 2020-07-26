@@ -1,4 +1,6 @@
 # Garch Explorer
+https://carminemnc.shinyapps.io/GarchExplorer/?_ga=2.38219555.1422092479.1595791309-1609159979.1592896995 
+
 An user-friendly App for modelling time series volatility.
 Based on rugarch and rmgarch packaged , this app provide an efficient and simple way to make your own analysis on whatever ticker you want,just typing time period and  ticker's name according to YAHOO Finance.
 
