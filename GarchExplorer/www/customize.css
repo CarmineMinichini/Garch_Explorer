@@ -1,0 +1,43 @@
+/* Hover del LOGO */ 
+                                  @import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+                                  
+                                  /* illuminare logo menu */ 
+                                  .skin-black .main-header .logo:hover {
+                                  background-color: black;}
+                                  .skin-black .main-sidebar .sidebar .sidebar-menu a:hover{
+                                  background-color: black; color:white;}
+                                  
+                                  /* illuminare sidebar menu */           
+                                  .skin-black .main-header .navbar .sidebar-toggle:hover{
+                                  background-color: black;}
+                                  .skin-black.sidebar-menu > li.active > a {
+                                  border-left-color: white;}
+                                  
+                                  /* COLORE DEL BODY */
+                                  .content-wrapper, .right-side {
+                                  background-color: #23395d }
+                                  .myClass { 
+                                  font-size: 20px;
+                                  line-height: 50px;
+                                  text-align: left;
+                                  font-family: "Georgia";
+                                  padding: 0 15px;
+                                  overflow: hidden; color: white;}
+                                  
+                                  /* FONT MAIN HEADER */
+                                  .main-header .logo {
+                                  font-family: "Lobster",cursive;
+                                  font-weight: bold;
+                                  font-size: 24px;} 
+                                   
+                                   /* SLIDER INPUT */
+                                  .irs-grid-pol {display: none;}
+                                  .irs-slider {width: 20px; height: 20px; top: 20px;}
+                                  .irs-single {color:black; background:#6666ff;}
+                                  .irs-grid-text {font-family: 'Georgia'; color: black; bottom: 0.1px; z-index: 0;}
+                                  
+                                  h1{color: blue;font-family: 'Georgia', serif;
+                                  font-weight: 500; font-size: 500;  text-shadow: 3px 3px 3px #aaa;
+                                  line-height: 1;  color: #404040;}
+                  
+                                  

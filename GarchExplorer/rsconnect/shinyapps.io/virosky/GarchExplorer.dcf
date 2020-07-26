@@ -1,0 +1,13 @@
+name: GarchExplorer
+title: GarchExplorer
+username:
+account: virosky
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2517551
+bundleId: 3400245
+url: https://carminemnc.shinyapps.io/GarchExplorer/
+when: 1594912357.93266
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|.RData
